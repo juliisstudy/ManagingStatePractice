@@ -6,3 +6,10 @@
 h2 {
   float: left;
 }
+p {
+  float: left;
+  text-align: left;
+}
+.panel {
+  float: left;
+}
